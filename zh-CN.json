@@ -883,5 +883,9 @@
   "yes": "是",
   "zoom": "放大",
   "zoom-in": "放大",
-  "zoom-out": "缩小"
+  "zoom-out": "缩小",
+  "dark": "黑暗的",
+  "launchpad": "Launchpad",
+  "light": "光",
+  "preview-mode": "预览模式"
 }

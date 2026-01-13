@@ -883,5 +883,9 @@
   "yes": "Ya",
   "zoom": "Perbesar",
   "zoom-in": "Perbesar",
-  "zoom-out": "Perkecil"
+  "zoom-out": "Perkecil",
+  "dark": "Gelap",
+  "launchpad": "Launchpad",
+  "light": "Lampu",
+  "preview-mode": "Modus pratinjau"
 }

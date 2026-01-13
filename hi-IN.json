@@ -883,5 +883,9 @@
   "yes": "हाँ",
   "zoom": "ज़ूम",
   "zoom-in": "ज़ूम इन",
-  "zoom-out": "ज़ूम आउट"
+  "zoom-out": "ज़ूम आउट",
+  "dark": "अँधेरा",
+  "launchpad": "Launchpad",
+  "light": "रोशनी",
+  "preview-mode": "पूर्वावलोकन मोड"
 }

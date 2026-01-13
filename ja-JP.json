@@ -883,5 +883,9 @@
   "yes": "はい",
   "zoom": "ズーム",
   "zoom-in": "拡大",
-  "zoom-out": "縮小"
+  "zoom-out": "縮小",
+  "dark": "暗い",
+  "launchpad": "Launchpad",
+  "light": "ライト",
+  "preview-mode": "プレビューモード"
 }

@@ -883,5 +883,9 @@
   "yes": "آره",
   "zoom": "بزرگنمايی",
   "zoom-in": "بزرگ‌نمایی",
-  "zoom-out": "کوچک‌نمایی"
+  "zoom-out": "کوچک‌نمایی",
+  "dark": "تاریک",
+  "launchpad": "Launchpad",
+  "light": "نور",
+  "preview-mode": "حالت پیش نمایش"
 }

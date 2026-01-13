@@ -883,5 +883,9 @@
   "yes": "SÌ",
   "zoom": "Zoom",
   "zoom-in": "Ingrandisci",
-  "zoom-out": "Riduci"
+  "zoom-out": "Riduci",
+  "dark": "Buio",
+  "launchpad": "Launchpad",
+  "light": "Leggero",
+  "preview-mode": "Modalità di anteprima"
 }

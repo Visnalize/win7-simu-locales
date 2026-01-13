@@ -883,5 +883,9 @@
   "yes": "Evet",
   "zoom": "Yakınlaştırmak",
   "zoom-in": "Yakınlaştır",
-  "zoom-out": "Uzaklaştır"
+  "zoom-out": "Uzaklaştır",
+  "dark": "Karanlık",
+  "launchpad": "Launchpad",
+  "light": "Işık",
+  "preview-mode": "Önizleme modu"
 }

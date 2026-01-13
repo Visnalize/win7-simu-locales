@@ -883,5 +883,9 @@
   "yes": "Oui",
   "zoom": "Zoom",
   "zoom-in": "Zoom avant",
-  "zoom-out": "Zoom arrière"
+  "zoom-out": "Zoom arrière",
+  "dark": "Sombre",
+  "launchpad": "Launchpad",
+  "light": "Lumière",
+  "preview-mode": "Mode aperçu"
 }

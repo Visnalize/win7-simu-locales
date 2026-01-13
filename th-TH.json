@@ -883,5 +883,9 @@
   "yes": "ใช่",
   "zoom": "ซูม",
   "zoom-in": "ซูมเข้า",
-  "zoom-out": "ซูมออก"
+  "zoom-out": "ซูมออก",
+  "dark": "มืด",
+  "launchpad": "Launchpad",
+  "light": "แสงสว่าง",
+  "preview-mode": "โหมดแสดงตัวอย่าง"
 }

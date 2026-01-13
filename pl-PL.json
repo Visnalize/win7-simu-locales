@@ -883,5 +883,9 @@
   "yes": "Tak",
   "zoom": "Powiększenia",
   "zoom-in": "Powiększ",
-  "zoom-out": "Pomniejsz"
+  "zoom-out": "Pomniejsz",
+  "dark": "Ciemny",
+  "launchpad": "Launchpad",
+  "light": "Światło",
+  "preview-mode": "Tryb podglądu"
 }

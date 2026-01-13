@@ -883,5 +883,9 @@
   "yes": "Có",
   "zoom": "Phóng to",
   "zoom-in": "Phóng to",
-  "zoom-out": "Thu nhỏ"
+  "zoom-out": "Thu nhỏ",
+  "dark": "Tối",
+  "launchpad": "Launchpad",
+  "light": "Sáng",
+  "preview-mode": "Chế độ xem trước"
 }

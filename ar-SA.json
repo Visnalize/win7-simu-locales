@@ -883,5 +883,9 @@
   "yes": "نعم",
   "zoom": "تكبير",
   "zoom-in": "تكبير",
-  "zoom-out": "تصغير"
+  "zoom-out": "تصغير",
+  "dark": "مظلم",
+  "launchpad": "Launchpad",
+  "light": "ضوء",
+  "preview-mode": "وضع المعاينة"
 }
