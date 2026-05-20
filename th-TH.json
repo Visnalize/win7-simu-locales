@@ -750,6 +750,8 @@
   "restore-purchase": "คืนค่าการซื้อ",
   "restore-purchase-enter-email": "ป้อนอีเมลสำหรับการเรียกเก็บเงินของคุณ",
   "restore-up": "คืนค่าขึ้น",
+  "result-is-undefined": "ผลลัพธ์ไม่ได้กำหนด",
+  "result-not-defined": "ไม่ได้กำหนดผลลัพธ์",
   "resume-logon": "เมื่อดำเนินการต่อ ให้แสดงหน้าจอเข้าสู่ระบบ",
   "rich-text-document": "เอกสาร Rich Text",
   "rich-text-format": "รูปแบบ Rich Text",

@@ -750,6 +750,8 @@
   "restore-purchase": "استعادة الشراء",
   "restore-purchase-enter-email": "أدخل البريد الإلكتروني الخاص بالفاتورة",
   "restore-up": "استعادة إلى الأعلى",
+  "result-is-undefined": "النتيجة غير معرّفة",
+  "result-not-defined": "النتيجة غير محددة",
   "resume-logon": "عند الاستئناف ، قم بعرض شاشة تسجيل الدخول",
   "rich-text-document": "مستند نص منسق",
   "rich-text-format": "تنسيق نص منسق",

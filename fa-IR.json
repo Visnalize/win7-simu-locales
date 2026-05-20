@@ -750,6 +750,8 @@
   "restore-purchase": "خرید را بازیابی کنید",
   "restore-purchase-enter-email": "ایمیل صورتحساب خود را وارد کنید",
   "restore-up": "بازیابی به بالا",
+  "result-is-undefined": "نتیجه تعریف‌نشده است",
+  "result-not-defined": "نتیجه تعریف نشده",
   "resume-logon": "در رزومه، صفحه ورود به سیستم را نمایش دهید",
   "rich-text-document": "سند متن غنی",
   "rich-text-format": "فرمت متن غنی",

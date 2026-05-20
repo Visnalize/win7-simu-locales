@@ -1071,5 +1071,7 @@
   "yes": "Yes",
   "zoom": "Zoom",
   "zoom-in": "Zoom in",
-  "zoom-out": "Zoom out"
+  "zoom-out": "Zoom out",
+  "result-is-undefined": "Result is undefined",
+  "result-not-defined": "Result not defined"
 }

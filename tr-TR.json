@@ -750,6 +750,8 @@
   "restore-purchase": "Satın alma işlemini geri yükle",
   "restore-purchase-enter-email": "Faturalandırma e-postanızı girin",
   "restore-up": "Yukarı Geri Yükle",
+  "result-is-undefined": "Sonuç tanımsız",
+  "result-not-defined": "Sonuç tanımlanmadı",
   "resume-logon": "Devam ederken oturum açma ekranını görüntüle",
   "rich-text-document": "Zengin Metin Belgesi",
   "rich-text-format": "Zengin metin formatı",

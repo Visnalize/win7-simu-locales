@@ -750,6 +750,8 @@
   "restore-purchase": "購入を復元する",
   "restore-purchase-enter-email": "請求先メールアドレスを入力してください",
   "restore-up": "元のサイズに戻す（上）",
+  "result-is-undefined": "結果が未定義です",
+  "result-not-defined": "結果は未定義です",
   "resume-logon": "再開、ログオン画面を表示",
   "rich-text-document": "リッチテキストドキュメント",
   "rich-text-format": "リッチテキスト形式",

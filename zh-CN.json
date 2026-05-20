@@ -750,6 +750,8 @@
   "restore-purchase": "恢复购买",
   "restore-purchase-enter-email": "输入您的帐单电子邮件",
   "restore-up": "向上还原",
+  "result-is-undefined": "结果未定义",
+  "result-not-defined": "结果未定义",
   "resume-logon": "在恢复时显示登录界面",
   "rich-text-document": "富文本文档",
   "rich-text-format": "富文本格式",
