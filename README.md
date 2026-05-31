@@ -7,26 +7,27 @@ We mainly leverage AI and automated tools to generate the initial translations. 
 The table below lists the available languages and their respective translation files.
 
 | Language | File Name |
-|----------|-----------|
-| English (source language)  | [en-US.json](./en-US.json) |
-| Arabic (عربى)  | [ar-SA.json](./ar-SA.json) |
-| Bengali (বাংলা)  | [bn-BD.json](./bn-BD.json) |
-| Catalan (Català)  | [ca-ES.json](./ca-ES.json) |
-| German (Deutsch)  | [de-DE.json](./de-DE.json) |
-| Spanish (Español)  | [es-ES.json](./es-ES.json) |
-| Farsi (فارسی)  | [fa-IR.json](./fa-IR.json) |
-| French (Français)  | [fr-FR.json](./fr-FR.json) |
-| Hindi (हिन्दी)  | [hi-IN.json](./hi-IN.json) |
-| Indonesian (Bahasa Indonesia)  | [id-ID.json](./id-ID.json) |
-| Italian (Italiano)  | [it-IT.json](./it-IT.json) |
-| Japanese (日本語)  | [ja-JP.json](./ja-JP.json) |
-| Polish (Polski)  | [pl-PL.json](./pl-PL.json) |
-| Portuguese (Português)  | [pt-PT.json](./pt-PT.json) |
-| Russian (Русский)  | [ru-RU.json](./ru-RU.json) |
-| Turkish (Türkçe)  | [tr-TR.json](./tr-TR.json) |
-| Ukrainian (Українська)  | [uk-UA.json](./uk-UA.json) |
-| Vietnamese (Tiếng Việt)  | [vi-VN.json](./vi-VN.json) |
-| Chinese (中文)  | [zh-CN.json](./zh-CN.json) |
+| -------- | --------- |
+| English (source language) | [en-US.json](./en-US.json) |
+| Arabic (عربى) | [ar-SA.json](./ar-SA.json) |
+| Bengali (বাংলা) | [bn-BD.json](./bn-BD.json) |
+| Catalan (Català) | [ca-ES.json](./ca-ES.json) |
+| German (Deutsch) | [de-DE.json](./de-DE.json) |
+| Spanish (Español) | [es-ES.json](./es-ES.json) |
+| Farsi (فارسی) | [fa-IR.json](./fa-IR.json) |
+| French (Français) | [fr-FR.json](./fr-FR.json) |
+| Hindi (हिन्दी) | [hi-IN.json](./hi-IN.json) |
+| Indonesian (Bahasa Indonesia) | [id-ID.json](./id-ID.json) |
+| Italian (Italiano) | [it-IT.json](./it-IT.json) |
+| Japanese (日本語) | [ja-JP.json](./ja-JP.json) |
+| Polish (Polski) | [pl-PL.json](./pl-PL.json) |
+| Portuguese (Português) | [pt-PT.json](./pt-PT.json) |
+| Russian (Русский) | [ru-RU.json](./ru-RU.json) |
+| Turkish (Türkçe) | [tr-TR.json](./tr-TR.json) |
+| Ukrainian (Українська) | [uk-UA.json](./uk-UA.json) |
+| Vietnamese (Tiếng Việt) | [vi-VN.json](./vi-VN.json) |
+| Chinese Simplified (中文) | [zh-CN.json](./zh-CN.json) |
+| Chinese Traditional (中文) | [zh-TW.json](./zh-TW.json) |
 
 ## How to contribute
 
