@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Area notifikasi",
   "notification-area-help": "Sesuaikan ikon dan notifikasi mana yang muncul di area tersebut",
+  "notification-area-icons": "Ikon area pemberitahuan",
   "notification-area-inst": "Jika Anda memilih untuk menyembunyikan ikon dan notifikasi, Anda tidak akan diberi tahu tentang perubahan atau pembaruan. Untuk melihat ikon tersembunyi kapan saja, klik panah di samping area notifikasi pada taskbar.",
   "notification-area-title": "Pilih ikon dan notifikasi yang ditampilkan di taskbar",
   "notification-bar": "Bilah Notifikasi",

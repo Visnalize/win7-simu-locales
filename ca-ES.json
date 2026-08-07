@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Àrea de notificacions",
   "notification-area-help": "Personalitza quines icones i notificacions apareixen a l'àrea",
+  "notification-area-icons": "Icones de l'àrea de notificació",
   "notification-area-inst": "Si decideixes amagar les icones i les notificacions, no rebràs avisos de canvis o actualitzacions. Per veure les icones ocultes en qualsevol moment, fes clic a la fletxa al costat de l'àrea de notificació de la barra de tasques.",
   "notification-area-title": "Selecciona quines icones i notificacions apareixen a la barra de tasques",
   "notification-bar": "Barra de notificacions",

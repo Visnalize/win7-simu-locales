@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Obszar powiadomień",
   "notification-area-help": "Dostosuj, które ikony i powiadomienia pojawiają się w obszarze",
+  "notification-area-icons": "Ikony obszaru powiadomień",
   "notification-area-inst": "Jeśli ukryjesz ikony i powiadomienia, nie będziesz otrzymywać informacji o zmianach ani aktualizacjach. Aby wyświetlić ukryte ikony w dowolnym momencie, kliknij strzałkę obok obszaru powiadomień na pasku zadań.",
   "notification-area-title": "Wybierz ikony i powiadomienia wyświetlane na pasku zadań",
   "notification-bar": "Pasek powiadomień",

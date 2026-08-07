@@ -660,6 +660,7 @@
   "notepad": "Blocco note",
   "notification-area": "Area di notifica",
   "notification-area-help": "Personalizza quali icone e notifiche appaiono nell'area",
+  "notification-area-icons": "Icone dell'area di notifica",
   "notification-area-inst": "Se si sceglie di nascondere icone e notifiche, non si riceveranno notifiche relative a modifiche o aggiornamenti. Per visualizzare le icone nascoste in qualsiasi momento, fare clic sulla freccia accanto all'area di notifica sulla barra delle applicazioni.",
   "notification-area-title": "Selezionare le icone e le notifiche da visualizzare sulla barra delle applicazioni",
   "notification-bar": "Barra delle notifiche",

@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Zone de notification",
   "notification-area-help": "Personnalisez les icônes et les notifications qui apparaissent dans la zone",
+  "notification-area-icons": "Icônes de la zone de notification",
   "notification-area-inst": "Si vous choisissez de masquer les icônes et les notifications, vous ne serez pas averti des modifications ou des mises à jour. Pour afficher les icônes masquées à tout moment, cliquez sur la flèche en regard de la zone de notification dans la barre des tâches.",
   "notification-area-title": "Sélectionnez les icônes et les notifications affichées dans la barre des tâches",
   "notification-bar": "Barre de notifications",

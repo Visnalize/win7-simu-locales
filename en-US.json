@@ -659,6 +659,7 @@
   "notepad": "Notepad",
   "notification-area": "Notification area",
   "notification-area-help": "Customize which icons and notifications appear in the area",
+  "notification-area-icons": "Notification Area Icons",
   "notification-area-inst": "If you choose to hide icons and notifications, you won't be notified about changes or updates. To view hidden icons at any time, click the arrow next to the notification area on the taskbar.",
   "notification-area-title": "Select which icons and notifications appear on the taskbar",
   "notification-bar": "Notification Bar",

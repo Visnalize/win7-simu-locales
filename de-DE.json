@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Infobereich",
   "notification-area-help": "Passen Sie an, welche Symbole und Benachrichtigungen im Bereich angezeigt werden",
+  "notification-area-icons": "Symbole des Infobereichs",
   "notification-area-inst": "Wenn Sie Symbole und Benachrichtigungen ausblenden, werden Sie nicht über Änderungen oder Aktualisierungen informiert. Um ausgeblendete Symbole jederzeit anzuzeigen, klicken Sie auf den Pfeil neben dem Infobereich auf der Taskleiste.",
   "notification-area-title": "Wählen Sie aus, welche Symbole und Benachrichtigungen auf der Taskleiste angezeigt werden",
   "notification-bar": "Benachrichtigungsleiste",

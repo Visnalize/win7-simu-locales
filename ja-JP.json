@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "通知領域",
   "notification-area-help": "エリアに表示するアイコンと通知をカスタマイズします",
+  "notification-area-icons": "通知領域アイコン",
   "notification-area-inst": "アイコンと通知を非表示にすると、変更や更新の通知は表示されません。非表示のアイコンを表示するには、タスク バーの通知領域の横にある矢印をクリックします。",
   "notification-area-title": "タスク バーに表示するアイコンと通知を選択してください",
   "notification-bar": "通知バー",

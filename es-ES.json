@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Área de notificación",
   "notification-area-help": "Personaliza qué iconos y notificaciones aparecen en el área",
+  "notification-area-icons": "Iconos del área de notificación",
   "notification-area-inst": "Si decide ocultar los iconos y las notificaciones, no se le avisará de los cambios o las actualizaciones. Para ver los iconos ocultos en cualquier momento, haga clic en la flecha situada junto al área de notificación de la barra de tareas.",
   "notification-area-title": "Seleccione qué iconos y notificaciones aparecen en la barra de tareas",
   "notification-bar": "Barra de notificaciones",

@@ -660,6 +660,7 @@
   "notepad": "Notepad",
   "notification-area": "Bildirim Alanı",
   "notification-area-help": "Alanda hangi simgelerin ve bildirimlerin görüneceğini özelleştirin",
+  "notification-area-icons": "Bildirim alanı simgeleri",
   "notification-area-inst": "Simgeleri ve bildirimleri gizlemeyi seçerseniz değişiklikler veya güncelleştirmeler hakkında bilgilendirilmezsiniz. Gizli simgeleri istediğiniz zaman görmek için görev çubuğundaki bildirim alanının yanındaki oka tıklayın.",
   "notification-area-title": "Görev çubuğunda görünecek simgeleri ve bildirimleri seçin",
   "notification-bar": "Bildirim Çubuğu",

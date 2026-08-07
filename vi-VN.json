@@ -659,6 +659,7 @@
   "notepad": "Notepad",
   "notification-area": "Khu vực thông báo",
   "notification-area-help": "Tùy chỉnh các biểu tượng và thông báo xuất hiện trong khu vực",
+  "notification-area-icons": "Biểu tượng vùng thông báo",
   "notification-area-inst": "Nếu bạn chọn ẩn biểu tượng và thông báo, bạn sẽ không được thông báo về các thay đổi hoặc bản cập nhật. Để xem các biểu tượng ẩn bất cứ lúc nào, hãy nhấp vào mũi tên bên cạnh vùng thông báo trên thanh tác vụ.",
   "notification-area-title": "Chọn biểu tượng và thông báo xuất hiện trên thanh tác vụ",
   "notification-bar": "Thanh thông báo",

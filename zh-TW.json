@@ -660,6 +660,7 @@
   "notepad": "記事本",
   "notification-area": "通知區域",
   "notification-area-help": "自訂區域中顯示的圖標和通知",
+  "notification-area-icons": "通知區域圖示",
   "notification-area-inst": "如果您選擇隱藏圖示和通知，將不會收到變更或更新的通知。若要隨時檢視隱藏的圖示，請按一下工作列通知區域旁的箭號。",
   "notification-area-title": "選擇要在工作列上顯示的圖示和通知",
   "notification-bar": "通知欄",

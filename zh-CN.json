@@ -660,6 +660,7 @@
   "notepad": "记事本",
   "notification-area": "通知区域",
   "notification-area-help": "自定义区域中显示的图标和通知",
+  "notification-area-icons": "通知区域图标",
   "notification-area-inst": "如果选择隐藏图标和通知，您将不会收到有关更改或更新的通知。要随时查看隐藏的图标，请单击任务栏通知区域旁边的箭头。",
   "notification-area-title": "选择任务栏上显示的图标和通知",
   "notification-bar": "通知栏",
