@@ -1066,7 +1066,7 @@
   "rectangular-selection": "長方形選択",
   "rectangular-snip": "四角形スニップ",
   "recurring-monthly": "定期的な月々サポート",
-  "recurring-yearly": "年間請求で 17% 割引",
+  "recurring-yearly": "年間請求で {percent} 割引",
   "redo": "やり直し",
   "refresh": "更新",
   "region": "地域",

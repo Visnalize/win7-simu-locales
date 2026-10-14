@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Rechteckige Auswahl",
   "rectangular-snip": "Rechteckausschnitt",
   "recurring-monthly": "Wiederkehrender monatlicher Support",
-  "recurring-yearly": "Sparen Sie 17 % mit jährlicher Abrechnung",
+  "recurring-yearly": "Sparen Sie {percent} mit jährlicher Abrechnung",
   "redo": "Wiederholen",
   "refresh": "Aktualisieren",
   "region": "Region",

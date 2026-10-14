@@ -1066,7 +1066,7 @@
   "rectangular-selection": "การเลือกแบบสี่เหลี่ยม",
   "rectangular-snip": "ตัดสี่เหลี่ยม",
   "recurring-monthly": "การสนับสนุนรายเดือนที่เกิดขึ้นประจำ",
-  "recurring-yearly": "ประหยัด 17% พร้อมการเรียกเก็บเงินรายปี",
+  "recurring-yearly": "ประหยัด {percent} พร้อมการเรียกเก็บเงินรายปี",
   "redo": "ทำซ้ำ",
   "refresh": "รีเฟรช",
   "region": "ภูมิภาค",

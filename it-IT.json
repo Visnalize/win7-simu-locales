@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Selezione rettangolare",
   "rectangular-snip": "Cattura rettangolare",
   "recurring-monthly": "Supporto mensile ricorrente",
-  "recurring-yearly": "Risparmia il 17% con la fatturazione annuale",
+  "recurring-yearly": "Risparmia il {percent} con la fatturazione annuale",
   "redo": "Ripeti",
   "refresh": "Aggiorna",
   "region": "Regione",

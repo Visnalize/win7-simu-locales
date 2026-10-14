@@ -1066,7 +1066,7 @@
   "rectangular-selection": "矩形选择",
   "rectangular-snip": "矩形截图",
   "recurring-monthly": "每月定期支持",
-  "recurring-yearly": "按年计费可节省 17%",
+  "recurring-yearly": "按年计费可节省 {percent}",
   "redo": "重做",
   "refresh": "刷新",
   "region": "地区",

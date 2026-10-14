@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Chọn hình chữ nhật",
   "rectangular-snip": "Cắt hình chữ nhật",
   "recurring-monthly": "Hỗ trợ định kỳ hàng tháng",
-  "recurring-yearly": "Tiết kiệm 17% khi thanh toán hàng năm",
+  "recurring-yearly": "Tiết kiệm {percent} khi thanh toán hàng năm",
   "redo": "Làm lại",
   "refresh": "Làm mới",
   "region": "Khu vực",

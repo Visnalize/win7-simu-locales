@@ -1066,7 +1066,7 @@
   "rectangular-selection": "矩形選擇",
   "rectangular-snip": "矩形截圖",
   "recurring-monthly": "每月定期支持",
-  "recurring-yearly": "按年計費可節省 17%",
+  "recurring-yearly": "按年計費可節省 {percent}",
   "redo": "取消復原",
   "refresh": "刷新",
   "region": "地區",

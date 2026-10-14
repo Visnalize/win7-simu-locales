@@ -1066,7 +1066,7 @@
   "rectangular-selection": "आयताकार चयन",
   "rectangular-snip": "आयताकार स्निप",
   "recurring-monthly": "आवर्ती मासिक सहायता",
-  "recurring-yearly": "वार्षिक बिलिंग से 17% बचाएं",
+  "recurring-yearly": "वार्षिक बिलिंग से {percent} बचाएं",
   "redo": "फिर से करें",
   "refresh": "ताज़ा करें",
   "region": "क्षेत्र",

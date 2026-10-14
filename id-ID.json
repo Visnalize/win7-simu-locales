@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Seleksi persegi panjang",
   "rectangular-snip": "Cuplikan persegi panjang",
   "recurring-monthly": "Dukungan bulanan berulang",
-  "recurring-yearly": "Hemat 17% dengan tagihan tahunan",
+  "recurring-yearly": "Hemat {percent} dengan tagihan tahunan",
   "redo": "Ulangi",
   "refresh": "Segarkan",
   "region": "Wilayah",

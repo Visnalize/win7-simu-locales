@@ -1066,7 +1066,7 @@
   "rectangular-selection": "আয়তাকার নির্বাচন",
   "rectangular-snip": "আয়তাকার স্নিপ",
   "recurring-monthly": "পুনরাবৃত্ত মাসিক সহায়তা",
-  "recurring-yearly": "বার্ষিক বিলিংয়ের সাথে 17% সংরক্ষণ করুন",
+  "recurring-yearly": "বার্ষিক বিলিংয়ের সাথে {percent} সংরক্ষণ করুন",
   "redo": "পুনরায় করুন",
   "refresh": "রিফ্রেশ করুন",
   "region": "অঞ্চল",

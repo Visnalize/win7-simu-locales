@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Seleção retangular",
   "rectangular-snip": "Recorte retangular",
   "recurring-monthly": "Suporte mensal recorrente",
-  "recurring-yearly": "Poupe 17% com faturação anual",
+  "recurring-yearly": "Poupe {percent} com faturação anual",
   "redo": "Refazer",
   "refresh": "Atualizar",
   "region": "Região",

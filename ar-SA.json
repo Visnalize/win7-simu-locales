@@ -1066,7 +1066,7 @@
   "rectangular-selection": "تحديد مستطيل",
   "rectangular-snip": "قص مستطيل",
   "recurring-monthly": "الدعم الشهري المتكرر",
-  "recurring-yearly": "وفر 17% مع الفواتير السنوية",
+  "recurring-yearly": "وفر {percent} مع الفواتير السنوية",
   "redo": "إعادة",
   "refresh": "تحديث",
   "region": "منطقة",

@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Selecció rectangular",
   "rectangular-snip": "Captura rectangular",
   "recurring-monthly": "Suport mensual recurrent",
-  "recurring-yearly": "Estalvia un 17% amb la facturació anual",
+  "recurring-yearly": "Estalvia un {percent} amb la facturació anual",
   "redo": "Refés",
   "refresh": "Actualitza",
   "region": "Regió",

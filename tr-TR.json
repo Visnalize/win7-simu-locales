@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Dikdörtgen seçim",
   "rectangular-snip": "Dikdörtgen kırpma",
   "recurring-monthly": "Yinelenen aylık destek",
-  "recurring-yearly": "Yıllık faturalandırmayla %17 tasarruf edin",
+  "recurring-yearly": "Yıllık faturalandırmayla {percent} tasarruf edin",
   "redo": "Yinele",
   "refresh": "Yenile",
   "region": "Bölge",

@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Zaznaczenie prostokątne",
   "rectangular-snip": "Zrzut prostokątny",
   "recurring-monthly": "Powtarzające się comiesięczne wsparcie",
-  "recurring-yearly": "Oszczędź 17% dzięki rozliczeniu rocznemu",
+  "recurring-yearly": "Oszczędź {percent} dzięki rozliczeniu rocznemu",
   "redo": "Ponów",
   "refresh": "Odśwież",
   "region": "Region",

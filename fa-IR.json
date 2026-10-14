@@ -1066,7 +1066,7 @@
   "rectangular-selection": "انتخاب مستطیلی",
   "rectangular-snip": "برش مستطیلی",
   "recurring-monthly": "پشتیبانی ماهانه مکرر",
-  "recurring-yearly": "17٪ با صورتحساب سالانه صرفه جویی کنید",
+  "recurring-yearly": "{percent} با صورتحساب سالانه صرفه جویی کنید",
   "redo": "دوباره انجام",
   "refresh": "تازه کردن",
   "region": "منطقه",

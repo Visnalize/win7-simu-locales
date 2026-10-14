@@ -1066,7 +1066,7 @@
   "rectangular-selection": "Rectangular selection",
   "rectangular-snip": "Rectangular Snip",
   "recurring-monthly": "Recurring monthly support",
-  "recurring-yearly": "Save 17% with annual billing",
+  "recurring-yearly": "Save {percent} with annual billing",
   "redo": "Redo",
   "refresh": "Refresh",
   "region": "Region",
