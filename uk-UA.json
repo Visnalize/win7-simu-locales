@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name}, включаючи підпапки",
   "n-item": "{n} елемент | {n} елементи",
   "n-minute-selected": "{n} хвилина вибрана | {n} хвилин вибрано",
-  "n-seconds": "{0} секунда | {0} секунд",
+  "n-seconds": "{n} секунда | {n} секунд",
   "name": "Ім’я",
   "name-playlist": "Назвіть {listType}",
   "need-wax-paper": "Потрібен пергаментний папір",

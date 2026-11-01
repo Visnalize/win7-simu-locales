@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} incloent subcarpetes",
   "n-item": "{n} element | {n} elements",
   "n-minute-selected": "{n} minut seleccionat | {n} minuts seleccionats",
-  "n-seconds": "{0} segon | {0} segons",
+  "n-seconds": "{n} segon | {n} segons",
   "name": "Nom",
   "name-playlist": "Anomena {listType}",
   "need-wax-paper": "Cal paper de forn",

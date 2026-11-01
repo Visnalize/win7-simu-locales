@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} incluindo subpastas",
   "n-item": "{n} item | {n} itens",
   "n-minute-selected": "{n} minuto selecionado | {n} minutos selecionados",
-  "n-seconds": "{0} segundo | {0} segundos",
+  "n-seconds": "{n} segundo | {n} segundos",
   "name": "Nome",
   "name-playlist": "Nome {listType}",
   "need-wax-paper": "É preciso papel vegetal",

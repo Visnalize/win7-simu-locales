@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} รวมถึงโฟลเดอร์ย่อย",
   "n-item": "{n} รายการ | {n} รายการ",
   "n-minute-selected": "{n} นาทีที่เลือก | {n} นาทีที่เลือก",
-  "n-seconds": "{0} วินาที | {0} วินาที",
+  "n-seconds": "{n} วินาที | {n} วินาที",
   "name": "ชื่อ",
   "name-playlist": "ตั้งชื่อ{listType}",
   "need-wax-paper": "ต้องใช้กระดาษไข",

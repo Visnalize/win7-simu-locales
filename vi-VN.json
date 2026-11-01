@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name}, bao gồm các thư mục con",
   "n-item": "{n} mục | {n} mục",
   "n-minute-selected": "{n} phút được chọn | {n} phút được chọn",
-  "n-seconds": "{0} giây | {0} giây",
+  "n-seconds": "{n} giây | {n} giây",
   "name": "Tên",
   "name-playlist": "Đặt tên {listType}",
   "need-wax-paper": "Cần giấy nến",

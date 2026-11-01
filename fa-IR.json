@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} شامل زیرپوشه‌ها",
   "n-item": "{n} مورد | {n} موارد",
   "n-minute-selected": "{n} دقیقه انتخاب شده | {n} دقیقه انتخاب شده",
-  "n-seconds": "{0} ثانیه | {0} ثانیه",
+  "n-seconds": "{n} ثانیه | {n} ثانیه",
   "name": "نام",
   "name-playlist": "{listType} را نامگذاری کنید",
   "need-wax-paper": "کاغذ روغنی لازم است",

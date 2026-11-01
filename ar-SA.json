@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} بما في ذلك المجلدات الفرعية",
   "n-item": "{n} عنصر | {n} عناصر",
   "n-minute-selected": "{n} دقيقة محددة | {n} دقائق محددة",
-  "n-seconds": "{0} ثانية | {0} ثوانٍ",
+  "n-seconds": "{n} ثانية | {n} ثوانٍ",
   "name": "اسم",
   "name-playlist": "سمّ {listType}",
   "need-wax-paper": "ورق الزبدة مطلوب",

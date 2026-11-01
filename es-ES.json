@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} incluyendo subcarpetas",
   "n-item": "{n} elemento | {n} elementos",
   "n-minute-selected": "{n} minuto seleccionado | {n} minutos seleccionados",
-  "n-seconds": "{0} segundo | {0} segundos",
+  "n-seconds": "{n} segundo | {n} segundos",
   "name": "Nombre",
   "name-playlist": "Nombra {listType}",
   "need-wax-paper": "Se necesita papel encerado",

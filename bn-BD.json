@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} সাবফোল্ডারসহ",
   "n-item": "{n} আইটেম | {n} আইটেমগুলি",
   "n-minute-selected": "{n} মিনিট নির্বাচিত | {n} মিনিট নির্বাচিত",
-  "n-seconds": "{0} সেকেন্ড | {0} সেকেন্ড",
+  "n-seconds": "{n} সেকেন্ড | {n} সেকেন্ড",
   "name": "নাম",
   "name-playlist": "{listType} নাম",
   "need-wax-paper": "মোম কাগজ দরকার",

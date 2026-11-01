@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} alt klasörler dahil",
   "n-item": "{n} öğe | {n} öğe",
   "n-minute-selected": "{n} dakika seçildi | {n} dakika seçildi",
-  "n-seconds": "{0} saniye | {0} saniye",
+  "n-seconds": "{n} saniye | {n} saniye",
   "name": "İsim",
   "name-playlist": "{listType} adlandır",
   "need-wax-paper": "Yağlı Kâğıt Gerekli",

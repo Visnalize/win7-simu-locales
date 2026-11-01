@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} wraz z podfolderami",
   "n-item": "{n} element | {n} elementy",
   "n-minute-selected": "{n} minuta wybrana | {n} minut wybranych",
-  "n-seconds": "{0} sekunda | {0} sekund",
+  "n-seconds": "{n} sekunda | {n} sekund",
   "name": "Nazwa",
   "name-playlist": "Nazwij {listType}",
   "need-wax-paper": "Potrzebny papier do pieczenia",

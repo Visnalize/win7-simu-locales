@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} including sub-folders",
   "n-item": "{n} item | {n} items",
   "n-minute-selected": "{n} minute selected | {n} minutes selected",
-  "n-seconds": "{0} second | {0} seconds",
+  "n-seconds": "{n} second | {n} seconds",
   "name": "Name",
   "name-playlist": "Name {listType}",
   "need-wax-paper": "Need Wax Paper",

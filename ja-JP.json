@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name}（サブフォルダーを含む）",
   "n-item": "{n} アイテム | {n} アイテム",
   "n-minute-selected": "{n} 分選択済み | {n} 分選択済み",
-  "n-seconds": "{0} 秒 | {0} 秒",
+  "n-seconds": "{n} 秒 | {n} 秒",
   "name": "名前",
   "name-playlist": "{listType} を名前付けする",
   "need-wax-paper": "ワックスペーパーが必要",

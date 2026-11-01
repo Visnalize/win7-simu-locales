@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} y compris les sous-dossiers",
   "n-item": "{n} élément | {n} éléments",
   "n-minute-selected": "{n} minute sélectionnée | {n} minutes sélectionnées",
-  "n-seconds": "{0} seconde | {0} secondes",
+  "n-seconds": "{n} seconde | {n} secondes",
   "name": "Nom",
   "name-playlist": "Nommer {listType}",
   "need-wax-paper": "Papier sulfurisé requis",

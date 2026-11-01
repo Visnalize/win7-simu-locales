@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} inclusi i sotto-conduttori",
   "n-item": "{n} Item | \n{n} elementi",
   "n-minute-selected": "{n} minuto selezionato | \n{n} minuti selezionati",
-  "n-seconds": "{0} secondo | {0} secondi",
+  "n-seconds": "{n} secondo | {n} secondi",
   "name": "Nome",
   "name-playlist": "Nome {listType}",
   "need-wax-paper": "Serve la carta da forno",

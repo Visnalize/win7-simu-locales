@@ -717,7 +717,7 @@
   "n-including-subfolders": "{name} termasuk subfolder",
   "n-item": "{n} item | {n} item",
   "n-minute-selected": "{n} menit dipilih | {n} menit dipilih",
-  "n-seconds": "{0} detik | {0} detik",
+  "n-seconds": "{n} detik | {n} detik",
   "name": "Nama",
   "name-playlist": "Nama {listType}",
   "need-wax-paper": "Perlu Kertas Roti",
